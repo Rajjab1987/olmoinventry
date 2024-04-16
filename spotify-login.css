@@ -1,0 +1,164 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+
+    background-color: rgb(32, 32, 32);
+}
+nav{
+    height: 50px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.683);
+}
+.head img{
+    width: 120px;
+     padding-left: 40px;
+     padding-top: 8px;
+}
+.first{
+    margin: 40px 0px 0px 320px;
+    height: 150vh;
+    width: 53%;
+    background-color: rgb(0, 0, 0);
+    display: block;
+    text-align: center;
+}
+.butt{
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 20%;
+}
+.bod{
+    text-align: center;
+}
+.bod h1{
+    color: white;
+    font-size: 40px;
+    padding-top: 70px;
+    margin-bottom: 20px;                                                                                                
+}
+.butt img{
+   position: absolute;
+   left: 20px;
+}
+.butt p{
+    color: aliceblue;
+}
+.butt button{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px;
+    border-radius: 100px;
+    width: 60%;
+    height: 7.5vh;
+    font-size: 14px;
+    background-color: rgba(16, 51, 0, 0.785);
+}
+.space p{
+    margin-top: 40px;
+    width: 80%;
+    margin-left: 50px;
+    height: 0.1vh;
+    background-color: rgb(133, 133, 133);
+}
+.second{
+    color: aliceblue;
+}
+.second p{
+    padding-top: 30px;
+    padding-right: 35%;
+    color: aliceblue;
+    font-size: 14px;
+}
+.second input{
+    border-style: solid 5px;
+    border-color: aliceblue;
+    height: 7vh;
+    width: 50%;
+    font-size: 13px;
+    padding-left: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(72, 79, 75, 0.61);
+}
+.seco{
+    color: aliceblue;
+}
+.seco p{
+    padding-top: 30px;
+    padding-right: 45%;
+    color: aliceblue;
+    font-size: 14px;
+}
+.seco input{
+    border-style: solid 5px;
+    border-color: aliceblue;
+    height: 7vh;
+    width: 50%;
+    font-size: 13px;
+    padding-left: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(72, 79, 75, 0.61);
+}
+.remb{
+    padding-top: 10px;
+    color: aliceblue;
+    padding-right: 40%;
+    font-size: 12px;
+}
+.remb input{
+    outline-color: rgb(6, 117, 13);
+    border-style:solid green;
+}
+.logbut{
+    padding-top: 40px;
+}
+.logbut button{
+    width: 50%;
+    height: 6.5vh;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    background-color: rgba(13, 224, 105, 0.817);
+}
+.logbut :hover{
+    transition: 1s ease-in-out;
+    color: rgb(255, 255, 255);
+    transform: scale(1.1);
+    transition-duration: 0.5ms;
+}
+.Forgot{
+    padding-top: 30px;
+}
+.Forgot a{
+    color: aliceblue;
+}
+.Forgot :hover{
+    color:rgb(0, 244, 0);
+}
+.reg{
+    color: rgb(133, 147, 147);
+    padding-top: 50px;
+    font-size: 17px;
+}
+.reg a{
+    padding-left: 4px;
+    color: aliceblue;
+}
+.reg a:hover{
+    color: rgb(68, 255, 47);
+}
+.third{
+    width: 100%;
+    height: 8vh;
+    background-color: rgb(0, 0, 0);
+    margin-top: 40px;
+}
+.end p{
+    padding-top: 10px;
+    padding-left: 29%;
+    color: aliceblue;
+    font-size: 14px;
+}
